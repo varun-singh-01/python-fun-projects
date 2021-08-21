@@ -1,1 +1,1 @@
-[[TranslatorProject.png|python-translator-app]]
+[[/TranslatorProject.png|python-translator-app]]
