@@ -9,8 +9,13 @@
 import goslate
 
 def translator(sentance, language="en"):
+    
+    # Create goslate object
     gs = goslate.Goslate()
+    
+    # Make a call to Free Google Transalate API to translate and get results back
     result = gs.translate(sentance, language)
+    
     return result
 
 print(translator("Follow GetRealWithPython group on Facebook!", "de"))
