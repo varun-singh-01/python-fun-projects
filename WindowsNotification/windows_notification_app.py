@@ -1,9 +1,8 @@
-
 #  @author Varun Singh
 #  @email admin@talkhash.com
 #  @create date 2021-08-21 16:02:29
 #  @modify date 2021-08-21 16:02:29
-#  @desc Generates a windows notificatioin
+#  @desc Generates a windows notification
 
 import os
 import sys
